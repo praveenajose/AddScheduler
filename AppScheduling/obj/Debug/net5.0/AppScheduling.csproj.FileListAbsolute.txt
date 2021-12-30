@@ -392,3 +392,4 @@ E:\Praveena\MVC5\AppScheduling\AppScheduling\bin\Debug\net5.0\Humanizer.dll
 E:\Praveena\MVC5\AppScheduling\AppScheduling\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 E:\Praveena\MVC5\AppScheduling\AppScheduling\bin\Debug\net5.0\libman.json
 E:\Praveena\MVC5\AppScheduling\AppScheduling\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\Praveena\MVC5\AppScheduling\AppScheduling\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs

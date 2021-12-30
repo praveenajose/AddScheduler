@@ -20,5 +20,10 @@ namespace AppScheduling.Controllers
         {
             return View();
         }
+
+        public IActionResult Register()
+        {
+            return View();
+        }
     }
 }

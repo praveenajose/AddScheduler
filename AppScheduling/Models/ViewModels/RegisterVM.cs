@@ -17,7 +17,7 @@ namespace AppScheduling.Models.ViewModels
 
         [Required]
         [DataType(DataType.Password)]
-        [StringLength(15, ErrorMessage ="The {0} must be at least {6} characters long.", MinimumLength =6)]
+        [StringLength(50, ErrorMessage ="The {0} must be at least {2} characters long.", MinimumLength =6)]
         public string Password { get; set; }
 
         [Required]
