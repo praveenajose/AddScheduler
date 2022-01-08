@@ -349,10 +349,6 @@ E:\Praveena\MVC5\AppScheduling\AppScheduling\obj\Debug\net5.0\AppScheduling.dll
 E:\Praveena\MVC5\AppScheduling\AppScheduling\obj\Debug\net5.0\ref\AppScheduling.dll
 E:\Praveena\MVC5\AppScheduling\AppScheduling\obj\Debug\net5.0\AppScheduling.pdb
 E:\Praveena\MVC5\AppScheduling\AppScheduling\obj\Debug\net5.0\AppScheduling.genruntimeconfig.cache
-E:\Praveena\MVC5\AppScheduling\AppScheduling\bin\Debug\net5.0\EntityFramework.SqlServer.dll
-E:\Praveena\MVC5\AppScheduling\AppScheduling\bin\Debug\net5.0\EntityFramework.dll
-E:\Praveena\MVC5\AppScheduling\AppScheduling\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
-E:\Praveena\MVC5\AppScheduling\AppScheduling\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
 E:\Praveena\MVC5\AppScheduling\AppScheduling\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 E:\Praveena\MVC5\AppScheduling\AppScheduling\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 E:\Praveena\MVC5\AppScheduling\AppScheduling\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
