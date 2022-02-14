@@ -7406,19 +7406,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bersh\\.nuget\\packages\\": {}
+    "C:\\Users\\p.prosper\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Praveena\\MVC5\\AppScheduling\\AppScheduling\\AppScheduling.csproj",
+      "projectUniqueName": "D:\\C#-Workspace\\AppScheduling\\AppScheduling\\AppScheduling\\AppScheduling.csproj",
       "projectName": "AppScheduling",
-      "projectPath": "E:\\Praveena\\MVC5\\AppScheduling\\AppScheduling\\AppScheduling.csproj",
-      "packagesPath": "C:\\Users\\bersh\\.nuget\\packages\\",
-      "outputPath": "E:\\Praveena\\MVC5\\AppScheduling\\AppScheduling\\obj\\",
+      "projectPath": "D:\\C#-Workspace\\AppScheduling\\AppScheduling\\AppScheduling\\AppScheduling.csproj",
+      "packagesPath": "C:\\Users\\p.prosper\\.nuget\\packages\\",
+      "outputPath": "D:\\C#-Workspace\\AppScheduling\\AppScheduling\\AppScheduling\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bersh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\p.prosper\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7493,7 +7493,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
